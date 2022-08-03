@@ -61,6 +61,17 @@ things[1, 0] = 45;
 things[1, 1] = 62;
 things[1, 2] = 9;
 
+//Accessing 2D array elements dynamically
+/*The first dataset in the GetLength Function will be rows which can be
+ represented as a 0, the second is a column which can be represented with a 1*/
+for (int row = 0; row < things.GetLength(0); row++)
+{
+    for (int col = 0; col < things.GetLength(1); col++)
+    {
+
+    }
+}
+
 string num = "16";
 
 int.Parse(num);
