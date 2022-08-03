@@ -72,6 +72,19 @@ for (int row = 0; row < things.GetLength(0); row++)
     }
 }
 
+//String Arrays
+string[] aHobbies = { "Swimming", "Tennis" };
+string[] bHobbies = { "Archery", "Painting", "Boxing" };
+string[] cHobbies = { "Photography", "Reading", "Anime" };
+
+
+string[][] hobbies = new string[3][];
+
+hobbies[0] = new string[] { "Swimming", "Tennis" };
+hobbies[1] = new string[] { };
+hobbies[2] = new string[] { };
+
+
 string num = "16";
 
 int.Parse(num);
