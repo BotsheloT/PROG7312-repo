@@ -1,0 +1,15 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/bin/Debug/net6.0/fizzbuzz
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/bin/Debug/net6.0/fizzbuzz.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/bin/Debug/net6.0/fizzbuzz.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/bin/Debug/net6.0/fizzbuzz.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/bin/Debug/net6.0/fizzbuzz.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/refint/fizzbuzz.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/fizzbuzz.genruntimeconfig.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/fizzbuzz/obj/Debug/net6.0/ref/fizzbuzz.dll

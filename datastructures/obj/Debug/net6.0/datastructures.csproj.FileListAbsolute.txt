@@ -1,0 +1,15 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/bin/Debug/net6.0/datastructures
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/bin/Debug/net6.0/datastructures.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/bin/Debug/net6.0/datastructures.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/bin/Debug/net6.0/datastructures.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/bin/Debug/net6.0/datastructures.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/refint/datastructures.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/datastructures.genruntimeconfig.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/datastructures/obj/Debug/net6.0/ref/datastructures.dll
