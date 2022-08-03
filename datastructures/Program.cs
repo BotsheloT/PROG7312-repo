@@ -53,6 +53,14 @@ int[,] things = new int[2, 3];
 //Initializing a 2D array
 int[,] thangs = new int[2, 3] { {1, 2, 3}, {4, 5, 6} };
 
+//Assigning values to empty array
+things[0, 0] = 15;
+things[0, 1] = 22;
+things[0, 2] = 3;
+things[1, 0] = 45;
+things[1, 1] = 62;
+things[1, 2] = 9;
+
 string num = "16";
 
 int.Parse(num);
