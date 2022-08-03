@@ -81,8 +81,8 @@ string[] cHobbies = { "Photography", "Reading", "Anime" };
 string[][] hobbies = new string[3][];
 
 hobbies[0] = new string[] { "Swimming", "Tennis" };
-hobbies[1] = new string[] { };
-hobbies[2] = new string[] { };
+hobbies[1] = new string[3];
+hobbies[2] = cHobbies;
 
 
 string num = "16";
