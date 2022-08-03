@@ -44,6 +44,15 @@ var usingStacks = () =>
     stck.Push(33);       
 };
 
+//Normal Array
+int[] stuff = new int[2];
+
+//2D Array
+int[,] things = new int[2, 3];
+
+//Initializing a 2D array
+int[,] thangs = new int[2, 3] { {1, 2, 3}, {4, 5, 6} };
+
 string num = "16";
 
 int.Parse(num);
