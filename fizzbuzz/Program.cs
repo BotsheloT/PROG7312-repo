@@ -1,4 +1,6 @@
-﻿//function for FizzBuzz Algo
+﻿using System;
+
+//function for FizzBuzz Algo
 var fizzbuzz = () =>
 {
     for (int i = 1; i > 100; i++)
