@@ -1,0 +1,5 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/final/obj/Debug/net6.0/final.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/final/obj/Debug/net6.0/final.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/final/obj/Debug/net6.0/final.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/final/obj/Debug/net6.0/final.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/final/obj/Debug/net6.0/final.csproj.CoreCompileInputs.cache

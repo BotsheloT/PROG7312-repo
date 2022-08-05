@@ -12,3 +12,5 @@ class final
         Console.WriteLine("I just destructed something");
     }
 }
+
+//Error due to missing main method
