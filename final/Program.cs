@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Class for constructor
+class final
+{
+    //Constructor method
+    public final()
+    {
+        Console.WriteLine("I just constructed something");
+    }
 
+    //Destructor
+    ~final(){
+        Console.WriteLine("I just destructed something");
+    }
+}
