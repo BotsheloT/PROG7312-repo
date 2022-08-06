@@ -1,0 +1,15 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/bin/Debug/net6.0/ICETask1
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/bin/Debug/net6.0/ICETask1.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/bin/Debug/net6.0/ICETask1.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/bin/Debug/net6.0/ICETask1.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/bin/Debug/net6.0/ICETask1.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/refint/ICETask1.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ICETask1.genruntimeconfig.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 1/ICETask1/obj/Debug/net6.0/ref/ICETask1.dll
