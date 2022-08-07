@@ -4,16 +4,33 @@ int[] nums = new int[3];
 //Variable for sum of even numbers
 int sum = 0;
 
+
 //For loop for user input
 for (int i = 0; i < 3; i++)
 {
-    Console.WriteLine("Please enter a number");
-    nums[i] = int.Parse(Console.ReadLine());
-
-    //Check for even number
-    if (nums[i] % 2 == 0)
+    try
     {
-        sum += nums[i];
+        Console.WriteLine("Please enter a number");
+        nums[i] = int.Parse(Console.ReadLine());
+    }
+
+    catch (NullReferenceException)
+    {
+        throw;
+    }
+
+    catch (TypeAccessException ex)
+    {
+        throw;
+    }
+
+    finally
+    {
+        //Check for even number
+        if (nums[i] % 2 == 0)
+        {
+            sum += nums[i];
+        }
     }
 }
 
