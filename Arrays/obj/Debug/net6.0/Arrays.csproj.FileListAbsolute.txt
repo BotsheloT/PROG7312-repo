@@ -1,0 +1,15 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/bin/Debug/net6.0/Arrays
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/bin/Debug/net6.0/Arrays.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/bin/Debug/net6.0/Arrays.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Arrays/obj/Debug/net6.0/ref/Arrays.dll
