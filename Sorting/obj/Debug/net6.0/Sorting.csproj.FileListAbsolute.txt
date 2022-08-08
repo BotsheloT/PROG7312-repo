@@ -1,0 +1,15 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/bin/Debug/net6.0/Sorting
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/bin/Debug/net6.0/Sorting.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/bin/Debug/net6.0/Sorting.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/bin/Debug/net6.0/Sorting.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/bin/Debug/net6.0/Sorting.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/refint/Sorting.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/Sorting.genruntimeconfig.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Sorting/obj/Debug/net6.0/ref/Sorting.dll
