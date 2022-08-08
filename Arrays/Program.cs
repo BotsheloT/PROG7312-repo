@@ -49,3 +49,7 @@ foreach (int val in kvpNums.Values)
 {
     Console.WriteLine(val);
 }
+/*In this we know that the Sorted list comes with the navtive feature to sort
+ a list automatically according to it's keys*/
+
+Console.WriteLine(kvpNums[6]);
