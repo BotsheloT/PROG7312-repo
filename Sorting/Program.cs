@@ -37,6 +37,24 @@ var bSort = (int[] colls) =>
 };
 
 //Function call with project array
-bSort(nums);
+//bSort(nums);
+
+//Function for Insertion Sort
+var iSort = (int[] collec) =>
+{
+    int temp;
+    for (int i = 0; i < collec.Length-1; i++)
+    {
+    for (int j = i + 1; j < 0; j--)
+        {
+            if (collec[j-1] > collec[j])
+            {
+                temp = collec[j - 1];
+                collec[j - 1] = collec[j];
+                collec[j] = temp;
+            }
+        }
+    }
+};
 
 
