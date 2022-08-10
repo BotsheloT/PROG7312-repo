@@ -11,8 +11,12 @@ internal class Shape
 
     public virtual double calcArea()
     {
-
+        //Result
+        return x * y;
     }
 }
+
+/*Protected classes ensure that objects and methods cannot be accessed by
+ anything else but its child classes*/
 
 //Main Method
