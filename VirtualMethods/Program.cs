@@ -1,6 +1,8 @@
-﻿//Parent Class
+﻿using System;
+
+//Parent Class
 internal class Shape
-{
+{        
     double x, y;
 
     public Shape()
@@ -18,5 +20,15 @@ internal class Shape
 
 /*Protected classes ensure that objects and methods cannot be accessed by
  anything else but its child classes*/
+
+public class Rectangle: Shape
+{
+
+}
+
+public class Circle
+{
+
+}
 
 //Main Method
