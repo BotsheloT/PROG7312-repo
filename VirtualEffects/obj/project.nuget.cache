@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEZBJSkxj9IEx0LcDSEhHaB++8+tC5b2eL9BEL7hb5xlTS3WE+emHTgwp54ndPxaVQDP8V0lo5feGWy3FQmTWQ==",
+  "success": true,
+  "projectFilePath": "/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/VirtualEffects/VirtualEffects.csproj",
+  "expectedPackageFiles": [
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
