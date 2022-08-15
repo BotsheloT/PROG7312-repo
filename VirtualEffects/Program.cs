@@ -2,11 +2,11 @@
 
 namespace VirtualEffects
 {
-    class Program
+    class Program: Shape
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

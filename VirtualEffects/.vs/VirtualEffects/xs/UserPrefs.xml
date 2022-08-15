@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{870CDCCA-5934-4809-A4A2-537118ACBA1D}|Default">
-  <MonoDevelop.Ide.ItemProperties.VirtualEffects FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shape.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="13" />
+      <File FileName="Shape.cs" Line="28" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VirtualEffects" expanded="True">
+            <Node name="VirtualEffects" expanded="True">
+              <Node name="Shape.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VirtualEffects PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
