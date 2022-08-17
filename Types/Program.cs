@@ -28,6 +28,13 @@ namespace Types
         static void Main(string[] args)
         {
             Console.WriteLine(isEqual("c", "C"));
+
+            Student cli = new Student("Jannis", 45);
+            cli.TestMark += 10;
+
+            Student cli2 = new Student("Carl", 60);
+
+            Student cli3 = new Student("Lenny", cli.TestMark + cli2.TestMark);
         }
 
         //Overloading part of program
