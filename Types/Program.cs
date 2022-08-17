@@ -2,8 +2,20 @@
 
 namespace Types
 {
-    class Program
+    class Student
     {
+        public string Name { get; set; }
+
+        public double TestMark { get; set; }
+
+        public Student(string name, double testMark)
+        {
+            Name = name;
+            TestMark = testMark;
+        }
+    }
+    class Program
+    {      
         public static bool isEqual<T>(T x, T y)
         {
             if (x.GetType() == typeof(string))
@@ -17,6 +29,8 @@ namespace Types
         {
             Console.WriteLine(isEqual("c", "C"));
         }
+
+        //Overloading part of program
     }
 }
 
