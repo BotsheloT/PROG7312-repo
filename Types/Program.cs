@@ -14,6 +14,7 @@ namespace Types
             TestMark = testMark;
         }
     }
+
     class Program
     {      
         public static bool isEqual<T>(T x, T y)
@@ -34,10 +35,21 @@ namespace Types
 
             Student cli2 = new Student("Carl", 60);
 
-            Student cli3 = new Student("Lenny", cli.TestMark + cli2.TestMark);
         }
+            /*Student cli3 = new Student("Lenny", cli.TestMark + cli2.TestMark);
+           
+            Student cli3 = cli + cli2;
 
-        //Overloading part of program
-    }
+            The objective is to achieve the same results from line 38 in 
+             line 40 with overloading*/
+
+            //Overloading part of program
+            public static Student operator +(Student cli, Student cli2)
+            {
+                return new Student("New Student", cli.TestMark + cli2.TestMark);
+            }
+
+        }
 }
+
 
