@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJd3R7C0NyqUdVaj+sLos31mynYIneCRVeyMahIi0GvwLSIGjK7p4pyDl1eNF8aV8KZojwHBtWoE2dKP1SpiGQ==",
+  "success": true,
+  "projectFilePath": "/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Types/Types.csproj",
+  "expectedPackageFiles": [
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
