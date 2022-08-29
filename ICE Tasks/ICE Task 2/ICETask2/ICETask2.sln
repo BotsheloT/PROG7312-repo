@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICETask2", "ICETask2.csproj", "{2376B619-30A5-4FFB-A809-A62DEDFDE912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2376B619-30A5-4FFB-A809-A62DEDFDE912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2376B619-30A5-4FFB-A809-A62DEDFDE912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2376B619-30A5-4FFB-A809-A62DEDFDE912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2376B619-30A5-4FFB-A809-A62DEDFDE912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDBCC411-B2F0-48F4-B51E-00B1C7FDAD1D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zb2RDZjMYhQ3yP46aZkGnFGJmO9qSMN2CURhIE5Sc0ykNEfyNNxaFOC9RZxxqGfH5yrH0IVA1iEy9/qcP7nkAw==",
+  "success": true,
+  "projectFilePath": "/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/ICETask3.csproj",
+  "expectedPackageFiles": [
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/botshelotlhabanyane/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
