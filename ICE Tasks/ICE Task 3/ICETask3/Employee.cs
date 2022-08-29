@@ -3,15 +3,15 @@ namespace ICETask3
 {
 	public class Employee
 	{
-		//Class properties
-		int employeeID;
-		string surname;
+		
+        public int depID { get; set; }
+        public string empSurname { get; set; }	
 
-		//Class Constructor
-		public Employee(int empID, string empSurname)
+        //Class Constructor
+        public Employee(int depID, string empSurname)
 		{
-			employeeID = empID;
-			empSurname = surname;
+			this.depID = depID;
+			this.empSurname = empSurname;
 		}
 	}
 }

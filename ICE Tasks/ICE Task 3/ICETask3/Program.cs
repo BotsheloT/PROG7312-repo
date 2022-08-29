@@ -14,15 +14,30 @@ namespace ICETask3
                                  "Carter", "Tenma"};
 
             //List for Employee objects
-            List<Employee> employeeIDs = new List<Employee>();
+            List<Employee> employees = new List<Employee>();
 
             //Random object to generate random result
-            Random ran = new Random();
+            Random ran = new Random();        
 
             //Generating and storing list IDs
             for (int i =0; i < 8; i++)
             {
+                employees.Add(new Employee(ran.Next(1, 5), surnames[i]));
+                
+            }
+            //Diaplaying unsorted List
+            foreach (object em in employees)
+            {
+                Console.WriteLine(em);
+            }
 
+            //Sorting List
+            for ()
+            {
+                for ()
+                {
+
+                }
             }
         }
     }

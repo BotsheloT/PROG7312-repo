@@ -1,0 +1,14 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/bin/Debug/netcoreapp3.1/ICETask3
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/bin/Debug/netcoreapp3.1/ICETask3.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/bin/Debug/netcoreapp3.1/ICETask3.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/bin/Debug/netcoreapp3.1/ICETask3.runtimeconfig.dev.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/bin/Debug/netcoreapp3.1/ICETask3.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/bin/Debug/netcoreapp3.1/ICETask3.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/ICE Tasks/ICE Task 3/ICETask3/obj/Debug/netcoreapp3.1/ICETask3.genruntimeconfig.cache
