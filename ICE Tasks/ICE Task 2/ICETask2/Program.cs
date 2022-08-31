@@ -10,19 +10,18 @@ namespace ICETask2
             //Temp value for sorting
             int temp;
 
-            for(int i = 1; i < numbers.Length; i++)
+            for(int i = 0; i < numbers.Length-1; i++)
             {
-                temp = numbers[i];
-                int j = i--;
-
-                while (j >= 0 && numbers[j] > numbers[i])
+                for (int j = i+1; j >0; j--)
                 {
-                    numbers[i] = numbers[j];
-                    j--;
-
+                    if (numbers[j-1] > numbers[j])
+                    {
+                        temp = numbers[j - 1];
+                        numbers[j - 1] = numbers[j];
+                        numbers[j] = temp;
+                    }
                 }
-                numbers[i] = temp;                                        
-            }
+            }          
         }
 
         static void Main(string[] args)
@@ -50,11 +49,14 @@ namespace ICETask2
             //Sorting Array
             mySort(nums);
 
+            //Temp value for sorting
+            int temp = 0;            
+
             //Printing of sorted Array
             Console.WriteLine("Sorted Array");            
             foreach (int n in nums)
             {
-                Console.Write(n);
+                Console.Write(n + " ");
             }
             Console.WriteLine();
         }
