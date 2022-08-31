@@ -27,9 +27,10 @@ namespace ICETask3
                 
             }
             //Diaplaying unsorted List
-            foreach (object em in employees)
+            Console.WriteLine("Sorted List");
+            foreach (Employee i in employees)
             {
-                Console.WriteLine(em);
+                Console.WriteLine(String.Join(" - ", i.depID, i.empSurname));
             }
 
             //Sorting List            
@@ -55,6 +56,13 @@ namespace ICETask3
                     }
 
                 }
+            }
+
+            //Printing
+            Console.WriteLine("Sorted List");
+            foreach (Employee i in employees)
+            {
+                Console.WriteLine(String.Join(" - ", i.depID, i.empSurname));
             }
             
         }
