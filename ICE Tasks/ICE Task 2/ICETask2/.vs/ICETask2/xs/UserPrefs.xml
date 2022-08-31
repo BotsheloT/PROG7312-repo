@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{2376B619-30A5-4FFB-A809-A62DEDFDE912}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="10" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ICETask2" expanded="True">
-            <Node name="ICETask2" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="ICETask2" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -18,11 +16,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ICETask2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ICETask2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
