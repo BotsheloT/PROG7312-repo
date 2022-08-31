@@ -22,7 +22,8 @@ namespace ICETask3
             //Generating and storing list IDs
             for (int i =0; i < 8; i++)
             {
-                employees.Add(new Employee(ran.Next(1, 5), surnames[i]));
+                employees.Add(new Employee(ran.Next(1, 5),
+                    surnames[ran.Next(0, surnames.Length-1)]));
                 
             }
             //Diaplaying unsorted List
@@ -31,15 +32,33 @@ namespace ICETask3
                 Console.WriteLine(em);
             }
 
-            //Sorting List
-            for ()
+            //Sorting List            
+            for (int i = 0; i < employees.Count -1; i++)
             {
-                for ()
+                for (int j = i+1; j < employees.Count; j++)
                 {
+                    if (employees[i].depID > employees[j].depID)
+                    {
+                        Employee temp = employees[j];
+                        employees[j] = employees[i];
+                        employees[i] = temp;
+                    }
+                    if (employees[i].depID == employees[j].depID)
+                    {
+                        if (employees[i].empSurname.CompareTo(
+                            employees[j].empSurname) == 1)
+                        {
+                            Employee temp = employees[j];
+                            employees[j] = employees[i];
+                            employees[i] = temp;
+                        }
+                    }
 
                 }
             }
+            
         }
     }
 }
+
 
