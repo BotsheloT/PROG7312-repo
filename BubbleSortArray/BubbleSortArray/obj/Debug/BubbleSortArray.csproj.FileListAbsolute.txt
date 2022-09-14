@@ -1,0 +1,8 @@
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\bin\Debug\BubbleSortArray.exe.config
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\bin\Debug\BubbleSortArray.exe
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\bin\Debug\BubbleSortArray.pdb
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\obj\Debug\BubbleSortArray.csproj.AssemblyReference.cache
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\obj\Debug\BubbleSortArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\obj\Debug\BubbleSortArray.csproj.CoreCompileInputs.cache
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\obj\Debug\BubbleSortArray.exe
+C:\Users\Thato\OneDrive\Documents\PROG7312 (PROGRAMMING 3rd Year Semester 2)\BubbleSortArray\BubbleSortArray\obj\Debug\BubbleSortArray.pdb
