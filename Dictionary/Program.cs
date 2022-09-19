@@ -16,7 +16,13 @@ namespace Dictionary
             employees.Add(2, "Steve Backster");
             employees.Add(3, "Fin Murtins");
             employees.Add(4, "Simon West");
-            employees.Add(5, "Bojack Horseman");            
+            employees.Add(5, "Bojack Horseman");
+
+            //Displaying the Dictionary
+            foreach (KeyValuePair<int, string> obj in employees)
+            {
+                Console.WriteLine("Emplee Number: {0}\t Employee Name: {1}", obj.Key, obj.Value);
+            }
         }
     }
 }

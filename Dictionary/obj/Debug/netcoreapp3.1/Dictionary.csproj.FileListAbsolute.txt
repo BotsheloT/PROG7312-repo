@@ -1,0 +1,14 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.dev.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.genruntimeconfig.cache
