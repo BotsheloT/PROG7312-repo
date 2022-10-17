@@ -21,11 +21,19 @@ namespace LinkedList
             LinkedListNode<string> shangNode = cities.Find("Shanghai");
             cities.AddAfter(shangNode, "Shanghai");
 
+            //Add Triest Before Shanghai
+            cities.AddBefore(shangNode,"Shanghai");
+
             //Displaying the Nodes
             foreach (string item in cities)
             {
                 Console.WriteLine(item);
             }
+
+            //Display what comes before Shanghai
+            Console.WriteLine("==============================================");
+            Console.WriteLine(shangNode.Previous.Value);
+            Console.WriteLine("==============================================");            
             
         }
     }
