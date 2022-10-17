@@ -1,0 +1,14 @@
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/bin/Debug/netcoreapp3.1/LinkedList
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.deps.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.dev.json
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csproj.AssemblyReference.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfoInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfo.cs
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csproj.CoreCompileInputs.cache
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.dll
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.pdb
+/Volumes/Aurora/Final Semester/PROG7312(Programming)/Work/Class Exercises/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.genruntimeconfig.cache

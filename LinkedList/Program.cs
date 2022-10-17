@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LinkedList
 {
@@ -6,7 +7,26 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LinkedList<string> cities = new LinkedList<string>();
+            cities.AddLast("Liverpool");
+            cities.AddLast("Shanghai");
+            cities.AddLast("Wein");
+            cities.AddLast("Barcelona");
+            cities.AddLast("Napoli");
+
+            //Add Stockholm as the first city
+            cities.AddFirst("Stockholm");
+
+            //Add Malmo after Shanghai
+            LinkedListNode<string> shangNode = cities.Find("Shanghai");
+            cities.AddAfter(shangNode, "Shanghai");
+
+            //Displaying the Nodes
+            foreach (string item in cities)
+            {
+                Console.WriteLine(item);
+            }
+            
         }
     }
 }
