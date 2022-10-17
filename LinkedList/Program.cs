@@ -28,7 +28,6 @@ namespace LinkedList
             foreach (string item in cities)
             {
                 Console.WriteLine(item);
-            }
 
             //Display what comes before Shanghai
             Console.WriteLine("==============================================");
