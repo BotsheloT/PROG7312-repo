@@ -23,6 +23,8 @@ namespace LinkedList
             nRoot.Children.Add(child1);
             nRoot.Children.Add(child2);*/
 
+            //First to open is the ast to close
+
             nRoot.addChild(3, nRoot);
             nRoot.addChild(2, nRoot);
 
